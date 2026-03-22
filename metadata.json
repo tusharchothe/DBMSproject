@@ -1,0 +1,5 @@
+{
+  "name": "QueryMentor",
+  "description": "An AI-powered SQL learning and practice platform with real-time feedback and schema exploration.",
+  "requestFramePermissions": []
+}
